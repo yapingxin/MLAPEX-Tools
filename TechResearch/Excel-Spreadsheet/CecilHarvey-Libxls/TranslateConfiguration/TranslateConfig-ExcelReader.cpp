@@ -10,6 +10,8 @@
 
 #include "libxls/xls.h"
 
+using namespace xls;
+
 
 int main()
 {
